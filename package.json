@@ -1,0 +1,12 @@
+{
+  "name": "Visual Regression Testing",
+  "version": "1.0.0",
+  "description": "visual tests",
+  "main": "index.js",
+  "dependencies": {
+    "backstopjs": "git://github.com/garris/BackstopJS.git"
+  },
+  "devDependencies": {
+    "path": "^0.12.7"
+  }
+}
